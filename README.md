@@ -1,5 +1,5 @@
 # stylelint-config-case
-[![Travis Build Status](https://travis-ci.org/stylelint/stylelint-config-case.svg)](https://travis-ci.org/stylelint/stylelint-config-case)
+[![Travis Build Status](https://travis-ci.org/TrySound/stylelint-config-case.svg)](https://travis-ci.org/TrySound/stylelint-config-case)
 
 > The case shareable config for stylelint.
 
